@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mateorovere
 - 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Advianced Python,SQL, and Data Science
+- 🌱 I’m currently learning Advanced Python,SQL and Data Science
 - 💞️ I’m looking to collaborate on Real Life projects and gain more knowledge about AI
 - 📫 How to reach me : https://www.linkedin.com/in/mateo-rovere/ and roveremateo@gmail.com
 
