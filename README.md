@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mateorovere
 - 👀 I’m interested in Artificial intelligence (student of Tecnicatura Universitaria en Inteligencia Artificial at UNR)
-- 🌱 I’m currently learning Tensorflow, Deep Learning and advanced SQL
-- 💞️ I’m looking forward to collaborate on Real Life projects and to gain more knowledge about AI
+- 🌱 I’m currently improving my skills in MLOps and Computer Vision
+- 💞️ I’m working as an AI analyst at Terragene 
 - 📫 How to reach me : https://www.linkedin.com/in/mateo-rovere and roveremateo@gmail.com
 
 <!---
