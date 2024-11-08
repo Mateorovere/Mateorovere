@@ -1,11 +1,42 @@
-- 👋 Hi, I’m @Mateorovere
-- 👀 I’m passionate about AI
-- ​🤖​ I'm a graduate on Artificial Intelligence at UNR (Universidad Nacional de Rosario)
-- 🌱 I’m currently improving my skills in MLOps, GANs and Reinforcement Learning
-- 💞️ I’m working as an Machine Learingn Engineer at Terragene
-- 📫 How to reach me : https://www.linkedin.com/in/mateo-rovere and roveremateo@gmail.com
+# 👋 Hello, I’m Mateo Rovere
 
-<!---
-Mateorovere/Mateorovere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Machine Learning Engineer with a strong foundation in **AI, Data Science, Deep Learning, Computer Vision,** and **Natural Language Processing**. Currently, I’m part of the **Terragene** team, where I apply advanced ML techniques to solve impactful, real-world challenges. I'm also a co-founder of a startup, bringing AI solutions to everyday problems alongside other innovative minds.
+
+---
+
+### 💼 Professional Background
+
+- 🎓 **Academic Credentials:** 
+  - Graduate in Artificial Intelligence at **Universidad Nacional de Rosario (UNR)**
+  - Currently pursuing a **Bachelor's in Artificial Intelligence** at UNR
+- 🤖 **Current Role:** Machine Learning Engineer at Terragene
+- 🚀 **Startup Co-Founder:** Leveraging AI to create meaningful solutions in various domains
+
+### 💡 Skills & Interests
+
+- **Machine Learning & Deep Learning**  
+- **MLOps, GANs,** and **Reinforcement Learning** *(currently expanding my expertise here)*
+- **Computer Vision & NLP**
+- **Kaggle Competitions:** Active participant, constantly pushing the boundaries of ML modeling and data science 
+
+### 🌱 Projects & Collaborations
+
+- 🐳 **Dockerized Microservices Architecture:** Building scalable applications with backend and frontend services for a ChessBot project, integrating Stockfish with React frontend.
+- 🌐 **AI Startup:** Developing real-world AI solutions with a multidisciplinary team.
+- 🌱 Growing an avocado plant, because who doesn’t love a bit of green?
+
+### 🎓 Academic Ambitions
+
+I am actively seeking scholarships to further my studies in **top-tier AI research** environments globally. I'm passionate about joining a university that leads in AI research and innovation.
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mateo-rovere)
+- 📧 roveremateo@gmail.com
+
+--- 
+
+*“AI isn’t just a technology; it’s a paradigm shift.”* 
+
