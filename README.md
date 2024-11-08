@@ -14,9 +14,10 @@ I’m a Machine Learning Engineer with a strong foundation in **AI, Data Science
 ### 💡 Skills & Interests
 
 - **Machine Learning & Deep Learning**  
-- **MLOps, GANs,** and **Reinforcement Learning** *(currently expanding my expertise here)*
+- **GPT, GANs,** and **Reinforcement Learning** *(currently expanding my expertise here)*
 - **Computer Vision & NLP**
-- **MLOps, CICD** and **Model Optimization**  
+- **MLOps, CICD** and **Hyperparameter Optimization**
+- **Data and Model Versioning**
 
 ### 🌱 Projects & Collaborations
 
