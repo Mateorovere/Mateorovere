@@ -8,16 +8,15 @@ I’m a Machine Learning Engineer with a strong foundation in **AI, Data Science
 
 - 🎓 **Academic Credentials:** 
   - Graduate in Artificial Intelligence at **Universidad Nacional de Rosario (UNR)**
-  - Currently pursuing a **Bachelor's in Artificial Intelligence** at UNR
 - 🤖 **Current Role:** Machine Learning Engineer at Terragene
-- 🚀 **Startup Co-Founder:** Leveraging AI to create meaningful solutions in various domains
+- 🚀 **Startup Co-Founder at Vanguard:** Leveraging AI to create meaningful solutions in various domains
 
 ### 💡 Skills & Interests
 
 - **Machine Learning & Deep Learning**  
 - **MLOps, GANs,** and **Reinforcement Learning** *(currently expanding my expertise here)*
 - **Computer Vision & NLP**
-- **Kaggle Competitions:** Active participant, constantly pushing the boundaries of ML modeling and data science 
+- **MLOps, CICD** and **Model Optimization**  
 
 ### 🌱 Projects & Collaborations
 
