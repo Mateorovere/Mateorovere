@@ -19,6 +19,11 @@ I’m a Machine Learning Engineer with a strong foundation in **AI, Data Science
 - **MLOps, CICD** and **Hyperparameter Optimization**
 - **Data and Model Versioning**
 
+### ⚙️ Technologies & Tools
+
+- **Languages & Frameworks:** TensorFlow, LangChain, OpenAI, Python, Django, Flask, PyTorch, JavaScript, React, SQL
+- **Version Control & Cloud Services:** Git, GitHub, AWS, DagsHub, DVC
+
 ### 🌱 Projects & Collaborations
 
 - 🐳 **Dockerized Microservices Architecture:** Building scalable applications with backend and frontend services for a ChessBot project, integrating Stockfish with React frontend.
