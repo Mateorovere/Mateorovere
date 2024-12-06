@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Mateo Rovere
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I’m Mateo Rovere
 
 I’m a Machine Learning Engineer with a strong foundation in **AI, Data Science, Deep Learning, Computer Vision,** and **Natural Language Processing**. Currently, I’m part of the **Terragene** team, where I apply advanced ML techniques to solve impactful, real-world challenges. I'm also a co-founder of a startup, bringing AI solutions to everyday problems alongside other innovative minds.
 
