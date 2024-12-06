@@ -38,8 +38,8 @@ I am actively seeking scholarships to further my studies in **top-tier AI resear
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=Mateorovere&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mateorovere)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Mateorovere&theme=material-palenight)](https://github.com/Mateorovere)
 
 ---
 
