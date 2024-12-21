@@ -36,12 +36,6 @@ I am actively seeking scholarships to further my studies in **top-tier AI resear
 
 ---
 
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=Mateorovere&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mateorovere)
-
----
-
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mateo-rovere)
