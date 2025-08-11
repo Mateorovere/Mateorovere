@@ -21,7 +21,7 @@ I’m a Machine Learning Engineer with a strong foundation in **AI, Data Science
 
 ### ⚙️ Technologies & Tools
 
-- **Languages & Frameworks:** TensorFlow, LangChain, OpenAI, Python, Django, Flask, PyTorch, JavaScript, React, SQL
+- **Languages & Frameworks:** TensorFlow, LangChain, OpenAI, Python, Django, Flask, PyTorch, React, SQL
 - **Version Control & Cloud Services:** Git, GitHub, AWS, DagsHub, DVC
 
 ### 🌱 Projects & Collaborations
@@ -30,10 +30,6 @@ I’m a Machine Learning Engineer with a strong foundation in **AI, Data Science
 - 🌐 **AI Startup:** Developing real-world AI solutions with a multidisciplinary team.
 - 🌱 Growing an avocado plant, because who doesn’t love a bit of green?
 
-### 🎓 Academic Ambitions
-
-I am actively seeking scholarships to further my studies in **top-tier AI research** environments globally. I'm passionate about joining a university that leads in AI research and innovation.
-
 ---
 
 ### 📫 Connect with Me
@@ -41,6 +37,4 @@ I am actively seeking scholarships to further my studies in **top-tier AI resear
 - [LinkedIn](https://www.linkedin.com/in/mateo-rovere)
 - 📧 roveremateo@gmail.com
 
---- 
 
-*“AI isn’t just a technology; it’s a paradigm shift.”* 
