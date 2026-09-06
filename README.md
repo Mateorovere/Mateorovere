@@ -47,8 +47,8 @@ My experience includes deploying **20+ ML models to production**, building compu
 ## 🎓 Education
 
 **Universidad Nacional de Rosario (UNR)**
-🎓 Technical Degree in Artificial Intelligence — 2024
-📚 Currently pursuing a Bachelor's Degree in Data Science
+🎓 Technical Degree in Artificial Intelligence — 2024.
+📚 Currently pursuing a Bachelor's Degree in Data Science and Google Cloud Professional Machine Learning Engineer. 
 
 ---
 
